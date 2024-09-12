@@ -1,5 +1,5 @@
-const mem_no = 1642058
-const cookie = "ncookie=done; connect.sid=s%3A6F9lXf2r_eorqQELPMP4nQbZeLvNVux3.OYTkQ%2BibHxtiWMdovs9zLWU8VQVWYqRPjlrtDH1FxN4"
+const mem_no = 0000000
+const cookie = "ncookie=done; connect.sid=s%3A6F9lXf2r_eorqQELPMP4nQbZeLvNVux3.OYTkQ%2BibHxtiWMsfvs0zLWG8VQVGYqRQjlrtDX1FxN3"
 
 function ss(v, ts) {
   // try and avoid pauses after seeking
