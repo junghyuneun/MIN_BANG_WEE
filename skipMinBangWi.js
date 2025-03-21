@@ -8,7 +8,7 @@ function ss(v, ts) {
   // however if it close enough, then we need to call play manually
   // some shenanigans to try and work around this:
   var timer = setInterval(function () {
-    if (v.paused && v.readyState == 4 || !v.paused) {
+    if (v.readyState == 4 || !v.paused) {
       v.play()
       clearInterval(timer)
     }
